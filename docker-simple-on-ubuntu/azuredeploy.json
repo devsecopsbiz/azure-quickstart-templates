@@ -42,7 +42,7 @@
     },
     "authenticationType": {
       "type": "string",
-      "defaultValue": "sshPublicKey",
+      "defaultValue": "password",
       "allowedValues": [
         "sshPublicKey",
         "password"
